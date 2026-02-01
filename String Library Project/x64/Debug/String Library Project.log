@@ -1,0 +1,21 @@
+﻿  String Library Project.cpp
+H:\myfirst\String Library Project\String Library Project\String Library Project.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\myfirst\String Library Project\String Library Project\clsString.h(41,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+H:\myfirst\String Library Project\String Library Project\clsString.h(45,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+H:\myfirst\String Library Project\String Library Project\clsString.h(55,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+H:\myfirst\String Library Project\String Library Project\clsString.h(186,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+H:\myfirst\String Library Project\String Library Project\clsString.h(259,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+H:\myfirst\String Library Project\String Library Project\clsString.h(353,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Library%20Project.cpp')
+  
+  String Library Project.vcxproj -> H:\myfirst\String Library Project\x64\Debug\String Library Project OOP.exe
